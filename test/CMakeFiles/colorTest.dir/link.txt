@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/colorTest.dir/link.d CMakeFiles/colorTest.dir/colorTest.cpp.o -o colorTest

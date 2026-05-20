@@ -1,0 +1,11 @@
+// constants.h.in
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+// Example of a numeric define
+#define BUILD_VERSION @BUILD_VERSION@
+
+// Example of a string define
+#define CONFIG_NAME "@CONFIG_NAME@"
+
+#endif

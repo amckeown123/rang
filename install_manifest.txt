@@ -1,0 +1,5 @@
+/usr/local/lib/cmake/rang/rang-config.cmake
+/usr/local/lib/cmake/rang/rang-config-version.cmake
+/usr/local/lib/cmake/rang/rang-targets.cmake
+/usr/local/include/rang.hpp
+/usr/local/lib/pkgconfig/rang.pc
